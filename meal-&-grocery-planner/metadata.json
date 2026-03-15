@@ -1,0 +1,5 @@
+{
+  "name": "Meal & Grocery Planner",
+  "description": "Application de gestion des repas et liste de courses avec synchronisation multi-utilisateurs.",
+  "requestFramePermissions": []
+}
